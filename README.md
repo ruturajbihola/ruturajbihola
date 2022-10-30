@@ -1,3 +1,4 @@
+![logo](ruturaj.gif)
 <h1 align="center">Hi 👋, I'm Ruturajsinh Bihola</h1>
 <h3 align="center">A python developer from India 😊</h3>
 
